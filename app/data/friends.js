@@ -32,7 +32,7 @@ var friendsArray = [
     ]
   },
   {
-    name: "",
+    name: "Batman",
     photo: "https://images-na.ssl-images-amazon.com/images/I/41trnBjzshL.jpg",
     scores: [
       5,
