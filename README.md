@@ -14,4 +14,4 @@ Remember to have fun!
 
 ## Link to App
 
-![Link to App](https://infinite-retreat-72368.herokuapp.com/)
+[Link to App](https://infinite-retreat-72368.herokuapp.com/)
