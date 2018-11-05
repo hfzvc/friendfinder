@@ -11,3 +11,7 @@ Remember to have fun!
 ## Demonstration
 
 ![Demo of App](http://g.recordit.co/WRFQoLasmM.gif)
+
+## Link to App
+
+![Link to App](https://infinite-retreat-72368.herokuapp.com/)
